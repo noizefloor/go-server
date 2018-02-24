@@ -1,16 +1,16 @@
 # Maintainer: Chase Patterson <chapatt at gmail dot com>
 pkgname=go-server
-pkgver=17.12.0
+pkgver=18.1.0
 pkgrel=1
 pkgdesc='GoCD (continuous delivery) server'
 arch=('any')
 url='http://gocd.org'
 license=('Apache')
-source=("go-server-17.12.0-5626.zip::https://download.gocd.org/binaries/17.12.0-5626/generic/go-server-17.12.0-5626.zip"
+source=("go-server-18.1.0-5937.zip::https://download.gocd.org/binaries/18.1.0-5937/generic/go-server-18.1.0-5937.zip"
 	'go-server.service'
 	'go-server.sysusers'
 	'go-server.tmpfiles')
-sha1sums=('5fe9b431923a58b67941fb55ad962dae57934b62'
+sha1sums=('8033264767e59da8d772acdc0546459803a8e108'
 	  'bb3561783b91ee898e68fd83933c311a60253f33'
 	  'b4282bdc4e7a79aee74fdbf68ea2530b9cd13953'
 	  '18685b86c7fe33b95917188b0106b63fc517351b')
